@@ -42,7 +42,7 @@ Does the implementation of EV supportive policies cause an increase in EV resgis
 
 
 ## Full Analysis Notebook
-[ev_policy_causal_impact_propensity_score.ipynb](./notebook/ev_policy_causal_impact_propensity_score.ipynb)
+[EV Policy Causal Impact Propensity Score](./notebook/ev_policy_causal_impact_propensity_score.ipynb)
 
 
 ## Analysis Workfloww
