@@ -82,7 +82,7 @@ Does the implementation of EV supportive policies cause an increase in EV resgis
 - Policies vary in scope and strength, but the analysis considered them as a single binary feature (policy vs. no policy), without reflecting policy type, intensity, or accounting for the number of active policies implemented.
 
 #### Confounding & Matching Limitations
-- Unobserved or omitted confounders may still bias results, and propensity score matching cannot ensure perfec balance for all states.
+- Unobserved or omitted confounders may still bias results, and propensity score matching cannot ensure perfect balance for all states.
 - States with policies implemented before 2016 may already have accumulated effects that are not fully captured in the analysis.
 
 #### Timing & Variation
