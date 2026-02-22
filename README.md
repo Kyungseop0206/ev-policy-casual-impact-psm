@@ -4,7 +4,7 @@
 ## Key Results
 ![ATT - CI results](./images/policy_causal_impact_psm_result.png)
 
-EV supportive state policies have a clear, positive, and causal impact on Ev registration growth in the U.S.
+EV supportive state policies have a clear, positive, and causal impact on EV registration growth in the U.S.
 Using **Propensity Score Matching (PSM)** to control for confounders such as GDP, charging infrastructure, political leaning, and $CO_2$.
 - States with EV supportive policies achieved **significantly higher EV registration growth** than matched states without policies.
 - The **effect became statistically significant after 2020** (ATT > 0, 95% CI excludes 0).
@@ -73,7 +73,7 @@ Does the implementation of EV supportive policies cause an increase in EV resgis
 
 ## Key Insights & Discussion
 ### Insights
-- EV supportive policies had a positive and growing causal impact on EV registratio growth, becoming statistically significant after 2020.
+- EV supportive policies had a positive and growing causal impact on EV registration growth, becoming statistically significant after 2020.
 - The positive ATT results provide causal evidence that EV supportive policies are effective, helping policymakers justify, evaluate, and optimize policy decisions.
 - Early limited effects, likely due to an immature EV market and COVID-19 disruptions, indicate that policy effectiveness depends heavily on market readiness and external conditions, emphasizing the importance of timing policy interventions.
 
