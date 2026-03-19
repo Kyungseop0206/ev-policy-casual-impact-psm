@@ -92,4 +92,4 @@ Does the implementation of EV supportive policies cause an increase in EV resgis
 ## Future Improvements
 - Analyze policy types to identify which categories have the strongest impact on EV registration growth.
 - Incorporate policy intensity and timing by considering the number of policies implemented, cumulative effects, and lagged effects to better capture difference in policy strength, duration.
-- Extend the analysis to 2025 once daat becomes available, especially when there are major revisions to the Federal EV tax credit in 2023-2024 and its termination on September 30, 2025, which are expected to significantly influence state level EV registration growth.
+- Extend the analysis to 2025 once data becomes available, especially when there are major revisions to the Federal EV tax credit in 2023-2024 and its termination on September 30, 2025, which are expected to significantly influence state level EV registration growth.
